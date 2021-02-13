@@ -1,3 +1,5 @@
 # TwitterSentimentAnalysis
 IOS Application
-# TwitterSentimentAnalysis
+
+
+![TwitterSentimentAnalysis](Senti.gif)
