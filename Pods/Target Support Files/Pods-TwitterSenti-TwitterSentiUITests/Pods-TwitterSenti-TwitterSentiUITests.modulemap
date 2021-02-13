@@ -1,0 +1,6 @@
+framework module Pods_TwitterSenti_TwitterSentiUITests {
+  umbrella header "Pods-TwitterSenti-TwitterSentiUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

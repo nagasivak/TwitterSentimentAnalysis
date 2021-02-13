@@ -1,0 +1,6 @@
+framework module Pods_TwitterSenti {
+  umbrella header "Pods-TwitterSenti-umbrella.h"
+
+  export *
+  module * { export * }
+}
